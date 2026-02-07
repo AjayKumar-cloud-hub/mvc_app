@@ -24,9 +24,6 @@ public class Employee {
 	private String email;
 	private String pwd;
 	private String role;
-<<<<<<< HEAD
 	private Integer ntg;
-=======
 	private String name;
->>>>>>> 33c65d67f45a97b0a4e5296a0ce22cc88588acf8
 }
